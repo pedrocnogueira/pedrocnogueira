@@ -10,9 +10,10 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=pedrocnogueira&theme=github_dark_dimmed&hide_border=true" height="500px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocnogueira&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="500px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pedrocnogueira&theme=github_dark_dimmed&hide_border=true" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocnogueira&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200px" />
 </div>
+
 
 
 
