@@ -10,20 +10,16 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-<table border="0">
-  <tr>
-    <td valign="top">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=pedrocnogueira&theme=github_dark_dimmed&hide_border=true" />
+  <div style="display: inline-block; vertical-align: top; margin-right: 10px;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=pedrocnogueira&theme=github_dark_dimmed&hide_border=true" />
+  </div>
 
-</td>
-<td valign="top">
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocnogueira&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocnogueira&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-</td>
-  </tr>
-</table>
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
