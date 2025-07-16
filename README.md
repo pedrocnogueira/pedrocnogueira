@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-<table border=0>
+<table border="0">
   <tr>
     <td valign="top">
 
