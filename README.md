@@ -10,10 +10,10 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/pedrocnogueira">
+  <a href="">
     <img src="https://nirzak-streak-stats.vercel.app/?user=pedrocnogueira&theme=github_dark_dimmed&hide_border=true" width="412px" />
   </a>
-  <a href="https://github.com/pedrocnogueira">
+  <a href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocnogueira&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="412px" />
   </a>
 </div>
