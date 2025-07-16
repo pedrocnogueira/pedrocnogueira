@@ -11,19 +11,21 @@
 
 # 📊 GitHub Stats:
 
+<div align="center">
 <table>
   <tr>
     <td valign="top">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=pedrocnogueira&theme=github_dark_dimmed&hide_border=false" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=pedrocnogueira&theme=github_dark_dimmed&hide_border=true" />
 
 </td>
 <td valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocnogueira&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocnogueira&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </td>
   </tr>
 </table>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
