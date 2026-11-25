@@ -1,14 +1,12 @@
 # 💫 Hi, I'm Pedro Nogueira!
 ## About me:
-🎓 Computer Engineering student at PUC-Rio<br>🍎 iOS Developer at Apple Developer Academy<br>💻 Volunteer Web Developer using Nuxt & Vue<br>📱 Built user-centered apps with thousands of impressions<br>⚙️ Skilled in Swift, TypeScript, SQL, and Git<br>🌍 Passionate about tech, design and social impact
-
-
+🎓 Computer Engineering student at PUC-Rio, on a Double Degree at Télécom Paris 🇫🇷<br>🔎 Studying Data Science & AI and Distributed Software Systems in Paris<br>🍎 Apple Developer Academy Alumni (2024-2025), iOS Developer<br>💻 Volunteer Web Developer using Nuxt & Vue<br>📱 Built user-centered apps with thousands of impressions<br>⚙️ Skilled in Swift, Java, TypeScript, SQL, and Git<br>🌍 Passionate about tech, design and social impact
 
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/java.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
